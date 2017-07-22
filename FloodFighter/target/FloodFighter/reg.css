@@ -1,0 +1,46 @@
+/*.hati {
+	width: 50%;
+}*/
+.sack {
+    background-image: url(https://blog.horyou.com/wp-content/uploads/2016/06/GMB-Akash-cover.jpg);
+    background-attachment: fixed, scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+}
+
+body{
+	padding-top: 100px;
+    background: #fff;
+    font-family: 'Roboto-regular', sans-serif;
+    font-weight: 300;
+    color: #454545;
+    font-size: 15px;
+    line-height: 26px;
+}
+@media (min-width: 1200px){
+.container {
+    width: 1170px;
+}
+
+.move {
+	margin-left: 430px;
+}
+
+.form {
+
+	display: block;
+    width: 40%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

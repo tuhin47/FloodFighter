@@ -1,0 +1,28 @@
+.pack {
+	background-image: url(http://www.iefimerida.gr/sites/default/files/akash4.jpg);
+	background-attachment: fixed, scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 100vh;
+	width: 100%;
+}
+
+.hati {
+	margin-top: 140px;
+	width: 600px;
+    margin-left: 350px;
+    margin-bottom: 80px;
+}
+
+.ghora {
+	width: 600px;
+    margin-left: 350px;
+}
+
+.overlay {
+	margin-top: -107px;
+	background-color: rgba(0,0,0,.7);
+	padding: 166px 35px;
+}
